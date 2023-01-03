@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TableExample</string>
+    <string name="col1">Name</string>
+</resources>
